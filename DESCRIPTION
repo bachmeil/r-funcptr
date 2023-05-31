@@ -1,0 +1,4 @@
+Package: funcptr
+Version: 0.0.1
+Date: 2023-05-31
+Title: Call native functions from R without creating a shared library
